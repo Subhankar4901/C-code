@@ -11,6 +11,6 @@ for(i=0;i<10;i++)
 {
  sum+=arr[i];
 }
-printf("%d",sum);
+printf("Sum : %d",sum);
 return 0;
 }
